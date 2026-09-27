@@ -1,0 +1,3 @@
+[submodule "keymaps/manum45"]
+	path = keymaps/manum45
+	url = https://github.com/manum45/lily58_keymap.git
