@@ -16,6 +16,9 @@ Useful links:
 ATmega32U4 (controller of pro micro) data sheet w/ pinout: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf
 Promicro Pinout: https://imgur.com/wMNx2u6
 
+## add left control key
+added I left control key by handwiring it to row 4 col 0
+
 ## Original readme
 
 Lily58 is 6×4+5keys column-staggered split keyboard.

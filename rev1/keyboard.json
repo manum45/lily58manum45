@@ -1,10 +1,10 @@
 {
-    "keyboard_name": "Lily58",
+    "keyboard_name": "Lily58manum45",
     "manufacturer": "liliums",
     "maintainer": "liliums",
     "usb": {
-        "vid": "0x04D8",
-        "pid": "0xEB2D",
+        "vid": "0x4545",
+        "pid": "0x1111",
         "device_version": "1.0.0"
     },
     "features": {
@@ -95,6 +95,7 @@
                 {"matrix": [8, 1], "x": 14.5, "y": 3.375},
                 {"matrix": [8, 0], "x": 15.5, "y": 3.5},
 
+                {"matrix": [4, 0], "x": 0, "y": 4.5},
                 {"matrix": [4, 1], "x": 2.5, "y": 4.125},
                 {"matrix": [4, 2], "x": 3.5, "y": 4.15},
                 {"matrix": [4, 3], "x": 4.5, "y": 4.25},
